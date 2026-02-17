@@ -18,11 +18,14 @@ It is designed to be **clean, simple, and ATS-friendly**, highlighting my skills
 
 ## Project Structure
 
+```bash
 iqra-shahzadi-resume/
 ├─ index.html # Main resume page
 ├─ style.css # External stylesheet
 └─ README.md # Project documentation
-
+```
+##ScreenShot
+![image alt](https://github.com/iqraiqrashahzadi355-a11y/Iqra-shahzadi-resume./blob/2f4ff6ca19de7e3dcbea04fc39befeecab6ea17a/Screenshot%20(513).png)
 
 ## Live Preview
 
